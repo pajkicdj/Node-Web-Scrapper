@@ -1,0 +1,28 @@
+{
+  "name": "node_web_scraper",
+  "version": "1.0.0",
+  "description": "watch out google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pajkicdj/Node-Web-Scrapper.git"
+  },
+  "keywords": [
+    "web",
+    "scraper"
+  ],
+  "author": "Djina Pajkic",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pajkicdj/Node-Web-Scrapper/issues"
+  },
+  "homepage": "https://github.com/pajkicdj/Node-Web-Scrapper",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0",
+    "scrape2csv": "^0.1.2"
+  }
+}
